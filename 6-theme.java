@@ -15,7 +15,7 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Simple UI")),
+      appBar: AppBar(title: Text("Theme Designing")),
       body: Center(
         child: Column(
           children: [
